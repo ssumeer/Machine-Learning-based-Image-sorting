@@ -1,0 +1,1000 @@
+n01440764 Animal
+n01443537 Animal
+n01484850 Animal
+n01491361 Animal
+n01494475 Animal
+n01496331 Animal
+n01498041 Animal
+n01514668 Animal
+n01514859 Animal
+n01518878 Animal
+n01530575 Animal
+n01531178 Animal
+n01532829 Animal
+n01534433 Animal
+n01537544 Animal
+n01558993 Animal
+n01560419 Animal
+n01580077 Animal
+n01582220 Animal
+n01592084 Animal
+n01601694 Animal
+n01608432 Animal
+n01614925 Animal
+n01616318 Animal
+n01622779 Animal
+n01629819 Animal
+n01630670 Animal
+n01631663 Animal
+n01632458 Animal
+n01632777 Animal
+n01641577 Animal
+n01644373 Animal
+n01644900 Animal
+n01664065 Animal
+n01665541 Animal
+n01667114 Animal
+n01667778 Animal
+n01669191 Animal
+n01675722 Animal
+n01677366 Animal
+n01682714 Animal
+n01685808 Animal
+n01687978 Animal
+n01688243 Animal
+n01689811 Animal
+n01692333 Animal
+n01693334 Animal
+n01694178 Animal
+n01695060 Animal
+n01697457 Animal
+n01698640 Animal
+n01704323 Animal
+n01728572 Animal
+n01728920 Animal
+n01729322 Animal
+n01729977 Animal
+n01734418 Animal
+n01735189 Animal
+n01737021 Animal
+n01739381 Animal
+n01740131 Animal
+n01742172 Animal
+n01744401 Animal
+n01748264 Animal
+n01749939 Animal
+n01751748 Animal
+n01753488 Animal
+n01755581 Animal
+n01756291 Animal
+n01768244 Animal
+n01770081 Animal
+n01770393 Animal
+n01773157 Animal
+n01773549 Animal
+n01773797 Animal
+n01774384 Animal
+n01774750 Animal
+n01775062 Animal
+n01776313 Animal
+n01784675 Animal
+n01795545 Animal
+n01796340 Animal
+n01797886 Animal
+n01798484 Animal
+n01806143 Animal
+n01806567 Animal
+n01807496 Animal
+n01817953 Animal
+n01818515 Animal
+n01819313 Animal
+n01820546 Animal
+n01824575 Animal
+n01828970 Animal
+n01829413 Animal
+n01833805 Animal
+n01843065 Animal
+n01843383 Animal
+n01847000 Animal
+n01855032 Animal
+n01855672 Animal
+n01860187 Animal
+n01871265 Animal
+n01872401 Animal
+n01873310 Animal
+n01877812 Animal
+n01882714 Animal
+n01883070 Animal
+n01910747 Animal
+n01914609 Animal
+n01917289 Animal
+n01924916 Animal
+n01930112 Animal
+n01943899 Animal
+n01944390 Animal
+n01945685 Animal
+n01950731 Animal
+n01955084 Animal
+n01968897 Animal
+n01978287 Animal
+n01978455 Animal
+n01980166 Animal
+n01981276 Animal
+n01983481 Animal
+n01984695 Animal
+n01985128 Animal
+n01986214 Animal
+n01990800 Animal
+n02002556 Animal
+n02002724 Animal
+n02006656 Animal
+n02007558 Animal
+n02009229 Animal
+n02009912 Animal
+n02011460 Animal
+n02012849 Animal
+n02013706 Animal
+n02017213 Animal
+n02018207 Animal
+n02018795 Animal
+n02025239 Animal
+n02027492 Animal
+n02028035 Animal
+n02033041 Animal
+n02037110 Animal
+n02051845 Animal
+n02056570 Animal
+n02058221 Animal
+n02066245 Animal
+n02071294 Animal
+n02074367 Animal
+n02077923 Animal
+n02085620 Animal
+n02085782 Animal
+n02085936 Animal
+n02086079 Animal
+n02086240 Animal
+n02086646 Animal
+n02086910 Animal
+n02087046 Animal
+n02087394 Animal
+n02088094 Animal
+n02088238 Animal
+n02088364 Animal
+n02088466 Animal
+n02088632 Animal
+n02089078 Animal
+n02089867 Animal
+n02089973 Animal
+n02090379 Animal
+n02090622 Animal
+n02090721 Animal
+n02091032 Animal
+n02091134 Animal
+n02091244 Animal
+n02091467 Animal
+n02091635 Animal
+n02091831 Animal
+n02092002 Animal
+n02092339 Animal
+n02093256 Animal
+n02093428 Animal
+n02093647 Animal
+n02093754 Animal
+n02093859 Animal
+n02093991 Animal
+n02094114 Animal
+n02094258 Animal
+n02094433 Animal
+n02095314 Animal
+n02095570 Animal
+n02095889 Animal
+n02096051 Animal
+n02096177 Animal
+n02096294 Animal
+n02096437 Animal
+n02096585 Animal
+n02097047 Animal
+n02097130 Animal
+n02097209 Animal
+n02097298 Animal
+n02097474 Animal
+n02097658 Animal
+n02098105 Animal
+n02098286 Animal
+n02098413 Animal
+n02099267 Animal
+n02099429 Animal
+n02099601 Animal
+n02099712 Animal
+n02099849 Animal
+n02100236 Animal
+n02100583 Animal
+n02100735 Animal
+n02100877 Animal
+n02101006 Animal
+n02101388 Animal
+n02101556 Animal
+n02102040 Animal
+n02102177 Animal
+n02102318 Animal
+n02102480 Animal
+n02102973 Animal
+n02104029 Animal
+n02104365 Animal
+n02105056 Animal
+n02105162 Animal
+n02105251 Animal
+n02105412 Animal
+n02105505 Animal
+n02105641 Animal
+n02105855 Animal
+n02106030 Animal
+n02106166 Animal
+n02106382 Animal
+n02106550 Animal
+n02106662 Animal
+n02107142 Animal
+n02107312 Animal
+n02107574 Animal
+n02107683 Animal
+n02107908 Animal
+n02108000 Animal
+n02108089 Animal
+n02108422 Animal
+n02108551 Animal
+n02108915 Animal
+n02109047 Animal
+n02109525 Animal
+n02109961 Animal
+n02110063 Animal
+n02110185 Animal
+n02110341 Animal
+n02110627 Animal
+n02110806 Animal
+n02110958 Animal
+n02111129 Animal
+n02111277 Animal
+n02111500 Animal
+n02111889 Animal
+n02112018 Animal
+n02112137 Animal
+n02112350 Animal
+n02112706 Animal
+n02113023 Animal
+n02113186 Animal
+n02113624 Animal
+n02113712 Animal
+n02113799 Animal
+n02113978 Animal
+n02114367 Animal
+n02114548 Animal
+n02114712 Animal
+n02114855 Animal
+n02115641 Animal
+n02115913 Animal
+n02116738 Animal
+n02117135 Animal
+n02119022 Animal
+n02119789 Animal
+n02120079 Animal
+n02120505 Animal
+n02123045 Animal
+n02123159 Animal
+n02123394 Animal
+n02123597 Animal
+n02124075 Animal
+n02125311 Animal
+n02127052 Animal
+n02128385 Animal
+n02128757 Animal
+n02128925 Animal
+n02129165 Animal
+n02129604 Animal
+n02130308 Animal
+n02132136 Animal
+n02133161 Animal
+n02134084 Animal
+n02134418 Animal
+n02137549 Animal
+n02138441 Animal
+n02165105 Animal
+n02165456 Animal
+n02167151 Animal
+n02168699 Animal
+n02169497 Animal
+n02172182 Animal
+n02174001 Animal
+n02177972 Animal
+n02190166 Animal
+n02206856 Animal
+n02219486 Animal
+n02226429 Animal
+n02229544 Animal
+n02231487 Animal
+n02233338 Animal
+n02236044 Animal
+n02256656 Animal
+n02259212 Animal
+n02264363 Animal
+n02268443 Animal
+n02268853 Animal
+n02276258 Animal
+n02277742 Animal
+n02279972 Animal
+n02280649 Animal
+n02281406 Animal
+n02281787 Animal
+n02317335 Animal
+n02319095 Animal
+n02321529 Animal
+n02325366 Animal
+n02326432 Animal
+n02328150 Animal
+n02342885 Animal
+n02346627 Animal
+n02356798 Animal
+n02361337 Animal
+n02363005 Animal
+n02364673 Animal
+n02389026 Animal
+n02391049 Animal
+n02395406 Animal
+n02396427 Animal
+n02397096 Animal
+n02398521 Animal
+n02403003 Animal
+n02408429 Animal
+n02410509 Animal
+n02412080 Animal
+n02415577 Animal
+n02417914 Animal
+n02422106 Animal
+n02422699 Animal
+n02423022 Animal
+n02437312 Animal
+n02437616 Animal
+n02441942 Animal
+n02442845 Animal
+n02443114 Animal
+n02443484 Animal
+n02444819 Animal
+n02445715 Animal
+n02447366 Animal
+n02454379 Animal
+n02457408 Animal
+n02480495 Animal
+n02480855 Animal
+n02481823 Animal
+n02483362 Animal
+n02483708 Animal
+n02484975 Animal
+n02486261 Animal
+n02486410 Animal
+n02487347 Animal
+n02488291 Animal
+n02488702 Animal
+n02489166 Animal
+n02490219 Animal
+n02492035 Animal
+n02492660 Animal
+n02493509 Animal
+n02493793 Animal
+n02494079 Animal
+n02497673 Animal
+n02500267 Animal
+n02504013 Animal
+n02504458 Animal
+n02509815 Animal
+n02510455 Animal
+n02514041 Animal
+n02526121 Animal
+n02536864 Animal
+n02606052 Animal
+n02607072 Animal
+n02640242 Animal
+n02641379 Animal
+n02643566 Animal
+n02655020 Animal
+n02666196 Miscllaneous
+n02667093 Miscllaneous
+n02669723 Miscllaneous
+n02672831 Miscllaneous
+n02676566 Miscllaneous
+n02687172 Vehicle
+n02690373 Vehicle
+n02692877 Vehicle
+n02699494 Miscllaneous
+n02701002 Vehicle
+n02704792 Miscllaneous
+n02708093 Miscllaneous
+n02727426 Miscllaneous
+n02730930 Miscllaneous
+n02747177 Miscllaneous
+n02749479 Miscllaneous
+n02769748 Miscllaneous
+n02776631 Miscllaneous
+n02777292 Miscllaneous
+n02782093 Miscllaneous
+n02783161 Miscllaneous
+n02786058 Miscllaneous
+n02787622 Miscllaneous
+n02788148 Miscllaneous
+n02790996 Miscllaneous
+n02791124 Miscllaneous
+n02791270 Miscllaneous
+n02793495 Miscllaneous
+n02794156 Miscllaneous
+n02795169 Miscllaneous
+n02797295 Vehicle
+n02799071 Miscllaneous
+n02802426 Miscllaneous
+n02804414 Miscllaneous
+n02804610 Miscllaneous
+n02807133 Miscllaneous
+n02808304 Miscllaneous
+n02808440 Miscllaneous
+n02814533 Vehicle
+n02814860 Miscllaneous
+n02815834 Miscllaneous
+n02817516 Miscllaneous
+n02823428 Miscllaneous
+n02823750 Miscllaneous
+n02825657 Miscllaneous
+n02834397 Miscllaneous
+n02835271 Vehicle
+n02837789 Miscllaneous
+n02840245 Miscllaneous
+n02841315 Miscllaneous
+n02843684 Miscllaneous
+n02859443 Miscllaneous
+n02860847 Vehicle
+n02865351 Miscllaneous
+n02869837 Miscllaneous
+n02870880 Miscllaneous
+n02871525 Miscllaneous
+n02877765 Miscllaneous
+n02879718 Miscllaneous
+n02883205 Miscllaneous
+n02892201 Miscllaneous
+n02892767 Miscllaneous
+n02894605 Miscllaneous
+n02895154 Miscllaneous
+n02906734 Miscllaneous
+n02909870 Miscllaneous
+n02910353 Miscllaneous
+n02916936 Miscllaneous
+n02917067 Vehicle
+n02927161 Miscllaneous
+n02930766 Vehicle
+n02939185 Miscllaneous
+n02948072 Miscllaneous
+n02950826 Miscllaneous
+n02951358 Vehicle
+n02951585 Miscllaneous
+n02963159 Miscllaneous
+n02965783 Vehicle
+n02966193 Vehicle
+n02966687 Miscllaneous
+n02971356 Miscllaneous
+n02974003 Vehicle
+n02977058 Miscllaneous
+n02978881 Miscllaneous
+n02979186 Miscllaneous
+n02980441 Miscllaneous
+n02981792 Miscllaneous
+n02988304 Miscllaneous
+n02992211 Miscllaneous
+n02992529 Miscllaneous
+n02999410 Miscllaneous
+n03000134 Miscllaneous
+n03000247 Miscllaneous
+n03000684 Miscllaneous
+n03014705 Miscllaneous
+n03016953 Miscllaneous
+n03017168 Miscllaneous
+n03018349 Miscllaneous
+n03026506 Miscllaneous
+n03028079 Miscllaneous
+n03032252 Miscllaneous
+n03041632 Miscllaneous
+n03042490 Nature
+n03045698 Miscllaneous
+n03047690 Miscllaneous
+n03062245 Miscllaneous
+n03063599 Miscllaneous
+n03063689 Miscllaneous
+n03065424 Miscllaneous
+n03075370 Miscllaneous
+n03085013 Miscllaneous
+n03089624 Miscllaneous
+n03095699 Vehicle
+n03100240 Vehicle
+n03109150 Miscllaneous
+n03110669 Miscllaneous
+n03124043 Miscllaneous
+n03124170 Miscllaneous
+n03125729 Vehicle
+n03126707 Miscllaneous
+n03127747 Miscllaneous
+n03127925 Miscllaneous
+n03131574 Miscllaneous
+n03133878 Miscllaneous
+n03134739 Miscllaneous
+n03141823 Miscllaneous
+n03146219 Miscllaneous
+n03160309 Miscllaneous
+n03179701 Miscllaneous
+n03180011 Miscllaneous
+n03187595 Miscllaneous
+n03188531 Miscllaneous
+n03196217 Miscllaneous
+n03197337 Miscllaneous
+n03201208 Miscllaneous
+n03207743 Miscllaneous
+n03207941 Miscllaneous
+n03208938 Miscllaneous
+n03216828 Miscllaneous
+n03218198 Vehicle
+n03220513 Miscllaneous
+n03223299 Miscllaneous
+n03240683 Miscllaneous
+n03249569 Miscllaneous
+n03250847 Miscllaneous
+n03255030 Miscllaneous
+n03259280 Miscllaneous
+n03271574 Miscllaneous
+n03272010 Miscllaneous
+n03272562 Vehicle
+n03290653 Miscllaneous
+n03291819 Miscllaneous
+n03297495 Miscllaneous
+n03314780 Miscllaneous
+n03325584 Miscllaneous
+n03337140 Miscllaneous
+n03344393 Miscllaneous
+n03345487 Vehicle
+n03347037 Miscllaneous
+n03355925 Miscllaneous
+n03372029 Miscllaneous
+n03376595 Miscllaneous
+n03379051 Miscllaneous
+n03384352 Vehicle
+n03388043 Nature
+n03388183 Miscllaneous
+n03388549 Miscllaneous
+n03393912 Vehicle
+n03394916 Miscllaneous
+n03400231 Miscllaneous
+n03404251 Miscllaneous
+n03417042 Vehicle
+n03424325 Miscllaneous
+n03425413 Miscllaneous
+n03443371 Miscllaneous
+n03444034 Vehicle
+n03445777 Miscllaneous
+n03445924 Vehicle
+n03447447 Miscllaneous
+n03447721 Miscllaneous
+n03450230 Miscllaneous
+n03452741 Miscllaneous
+n03457902 Miscllaneous
+n03459775 Miscllaneous
+n03461385 Miscllaneous
+n03467068 Miscllaneous
+n03476684 Miscllaneous
+n03476991 Miscllaneous
+n03478589 Miscllaneous
+n03481172 Miscllaneous
+n03482405 Miscllaneous
+n03483316 Miscllaneous
+n03485407 Miscllaneous
+n03485794 Miscllaneous
+n03492542 Miscllaneous
+n03494278 Miscllaneous
+n03495258 Miscllaneous
+n03496892 Vehicle
+n03498962 Miscllaneous
+n03527444 Miscllaneous
+n03529860 Miscllaneous
+n03530642 Miscllaneous
+n03532672 Miscllaneous
+n03534580 Miscllaneous
+n03535780 Miscllaneous
+n03538406 Vehicle
+n03544143 Miscllaneous
+n03584254 Miscllaneous
+n03584829 Miscllaneous
+n03590841 Miscllaneous
+n03594734 Miscllaneous
+n03594945 Vehicle
+n03595614 Miscllaneous
+n03598930 Miscllaneous
+n03599486 Vehicle
+n03602883 Miscllaneous
+n03617480 Miscllaneous
+n03623198 Miscllaneous
+n03627232 Miscllaneous
+n03630383 Miscllaneous
+n03633091 Miscllaneous
+n03637318 Miscllaneous
+n03642806 Miscllaneous
+n03649909 Miscllaneous
+n03657121 Miscllaneous
+n03658185 Miscllaneous
+n03661043 Miscllaneous
+n03662601 Vehicle
+n03666591 Miscllaneous
+n03670208 Vehicle
+n03673027 Vehicle
+n03676483 Miscllaneous
+n03680355 Miscllaneous
+n03690938 Miscllaneous
+n03691459 Miscllaneous
+n03692522 Miscllaneous
+n03697007 Miscllaneous
+n03706229 Miscllaneous
+n03709823 Miscllaneous
+n03710193 Miscllaneous
+n03710637 Miscllaneous
+n03710721 Miscllaneous
+n03717622 Miscllaneous
+n03720891 Miscllaneous
+n03721384 Miscllaneous
+n03724870 Miscllaneous
+n03729826 Miscllaneous
+n03733131 Miscllaneous
+n03733281 Miscllaneous
+n03733805 Miscllaneous
+n03742115 Miscllaneous
+n03743016 Miscllaneous
+n03759954 Miscllaneous
+n03761084 Miscllaneous
+n03763968 Miscllaneous
+n03764736 Miscllaneous
+n03769881 Vehicle
+n03770439 Miscllaneous
+n03770679 Vehicle
+n03773504 Miscllaneous
+n03775071 Miscllaneous
+n03775546 Miscllaneous
+n03776460 Miscllaneous
+n03777568 Miscllaneous
+n03777754 Miscllaneous
+n03781244 Miscllaneous
+n03782006 Miscllaneous
+n03785016 Miscllaneous
+n03786901 Miscllaneous
+n03787032 Miscllaneous
+n03788195 Miscllaneous
+n03788365 Miscllaneous
+n03791053 Vehicle
+n03792782 Vehicle
+n03792972 Miscllaneous
+n03793489 Miscllaneous
+n03794056 Miscllaneous
+n03796401 Vehicle
+n03803284 Miscllaneous
+n03804744 Miscllaneous
+n03814639 Miscllaneous
+n03814906 Miscllaneous
+n03825788 Miscllaneous
+n03832673 Miscllaneous
+n03837869 Miscllaneous
+n03838899 Miscllaneous
+n03840681 Miscllaneous
+n03841143 Miscllaneous
+n03843555 Miscllaneous
+n03854065 Miscllaneous
+n03857828 oscilloscope
+n03866082 Miscllaneous
+n03868242 Vehicle
+n03868863 Miscllaneous
+n03871628 Miscllaneous
+n03873416 Vehicle
+n03874293 Vehicle
+n03874599 Miscllaneous
+n03876231 Miscllaneous
+n03877472 Miscllaneous
+n03877845 Miscllaneous
+n03884397 Miscllaneous
+n03887697 Miscllaneous
+n03888257 Miscllaneous
+n03888605 Miscllaneous
+n03891251 Miscllaneous
+n03891332 Miscllaneous
+n03895866 Vehicle
+n03899768 Miscllaneous
+n03902125 Miscllaneous
+n03903868 Miscllaneous
+n03908618 Miscllaneous
+n03908714 Miscllaneous
+n03916031 Miscllaneous
+n03920288 Petri dish+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+n03924679 photocopier
+n03929660 pick, plectrum, plectron
+n03929855 pickelhaube
+n03930313 picket fence, paling
+n03930630 pickup, pickup truck
+n03933933 pier
+n03935335 piggy bank, penny bank
+n03937543 pill bottle
+n03938244 pillow
+n03942813 ping-pong ball
+n03944341 pinwheel
+n03947888 pirate, pirate ship
+n03950228 pitcher, ewer
+n03954731 plane, carpenter's plane, woodworking plane
+n03956157 planetarium
+n03958227 plastic bag
+n03961711 plate rack
+n03967562 plow, plough
+n03970156 plunger, plumber's helper
+n03976467 Polaroid camera, Polaroid Land camera
+n03976657 pole
+n03977966 police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n03980874 poncho
+n03982430 pool table, billiard table, snooker table
+n03983396 pop bottle, soda bottle
+n03991062 pot, flowerpot
+n03992509 potter's wheel
+n03995372 power drill
+n03998194 prayer rug, prayer mat
+n04004767 printer
+n04005630 prison, prison house
+n04008634 projectile, missile
+n04009552 projector
+n04019541 puck, hockey puck
+n04023962 punching bag, punch bag, punching ball, punchball
+n04026417 purse
+n04033901 quill, quill pen
+n04033995 quilt, comforter, comfort, puff
+n04037443 racer, race car, racing car
+n04039381 racket, racquet
+n04040759 radiator
+n04041544 radio, wireless
+n04044716 radio telescope, radio reflector
+n04049303 rain barrel
+n04065272 recreational vehicle, RV, R.V.
+n04067472 reel
+n04069434 reflex camera
+n04070727 refrigerator, icebox
+n04074963 remote control, remote
+n04081281 restaurant, eating house, eating place, eatery
+n04086273 revolver, six-gun, six-shooter
+n04090263 rifle
+n04099969 rocking chair, rocker
+n04111531 rotisserie
+n04116512 rubber eraser, rubber, pencil eraser
+n04118538 rugby ball
+n04118776 rule, ruler
+n04120489 running shoe
+n04125021 safe
+n04127249 safety pin
+n04131690 saltshaker, salt shaker
+n04133789 sandal
+n04136333 sarong
+n04141076 sax, saxophone
+n04141327 scabbard
+n04141975 scale, weighing machine
+n04146614 school bus
+n04147183 schooner
+n04149813 scoreboard
+n04152593 screen, CRT screen
+n04153751 screw
+n04154565 screwdriver
+n04162706 seat belt, seatbelt
+n04179913 sewing machine
+n04192698 shield, buckler
+n04200800 shoe shop, shoe-shop, shoe store
+n04201297 shoji
+n04204238 shopping basket
+n04204347 shopping cart
+n04208210 shovel
+n04209133 shower cap
+n04209239 shower curtain
+n04228054 ski
+n04229816 ski mask
+n04235860 sleeping bag
+n04238763 slide rule, slipstick
+n04239074 sliding door
+n04243546 slot, one-armed bandit
+n04251144 snorkel
+n04252077 snowmobile
+n04252225 snowplow, snowplough
+n04254120 soap dispenser
+n04254680 soccer ball
+n04254777 sock
+n04258138 solar dish, solar collector, solar furnace
+n04259630 sombrero
+n04263257 soup bowl
+n04264628 space bar
+n04265275 space heater
+n04266014 space shuttle
+n04270147 spatula
+n04273569 speedboat
+n04275548 spider web, spider's web
+n04277352 spindle
+n04285008 sports car, sport car
+n04286575 spotlight, spot
+n04296562 stage
+n04310018 steam locomotive
+n04311004 steel arch bridge
+n04311174 steel drum
+n04317175 stethoscope
+n04325704 stole
+n04326547 stone wall
+n04328186 stopwatch, stop watch
+n04330267 stove
+n04332243 strainer
+n04335435 streetcar, tram, tramcar, trolley, trolley car
+n04336792 stretcher
+n04344873 studio couch, day bed
+n04346328 stupa, tope
+n04347754 submarine, pigboat, sub, U-boat
+n04350905 suit, suit of clothes
+n04355338 sundial
+n04355933 sunglass
+n04356056 sunglasses, dark glasses, shades
+n04357314 sunscreen, sunblock, sun blocker
+n04366367 suspension bridge
+n04367480 swab, swob, mop
+n04370456 sweatshirt
+n04371430 swimming trunks, bathing trunks
+n04371774 swing
+n04372370 switch, electric switch, electrical switch
+n04376876 syringe
+n04380533 table lamp
+n04389033 tank, army tank, armored combat vehicle, armoured combat vehicle
+n04392985 tape player
+n04398044 teapot
+n04399382 teddy, teddy bear
+n04404412 television, television system
+n04409515 tennis ball
+n04417672 thatch, thatched roof
+n04418357 theater curtain, theatre curtain
+n04423845 thimble
+n04428191 thresher, thrasher, threshing machine
+n04429376 throne
+n04435653 tile roof
+n04442312 toaster
+n04443257 tobacco shop, tobacconist shop, tobacconist
+n04447861 toilet seat
+n04456115 torch
+n04458633 totem pole
+n04461696 tow truck, tow car, wrecker
+n04462240 toyshop
+n04465501 tractor
+n04467665 trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+n04476259 tray
+n04479046 trench coat
+n04482393 tricycle, trike, velocipede
+n04483307 trimaran
+n04485082 tripod
+n04486054 triumphal arch
+n04487081 trolleybus, trolley coach, trackless trolley
+n04487394 trombone
+n04493381 tub, vat
+n04501370 turnstile
+n04505470 typewriter keyboard
+n04507155 umbrella
+n04509417 unicycle, monocycle
+n04515003 upright, upright piano
+n04517823 vacuum, vacuum cleaner
+n04522168 vase
+n04523525 vault
+n04525038 velvet
+n04525305 vending machine
+n04532106 vestment
+n04532670 viaduct
+n04536866 violin, fiddle
+n04540053 volleyball
+n04542943 waffle iron
+n04548280 wall clock
+n04548362 wallet, billfold, notecase, pocketbook
+n04550184 wardrobe, closet, press
+n04552348 warplane, military plane
+n04553703 washbasin, handbasin, washbowl, lavabo, wash-hand basin
+n04554684 washer, automatic washer, washing machine
+n04557648 water bottle
+n04560804 water jug
+n04562935 water tower
+n04579145 whiskey jug
+n04579432 whistle
+n04584207 wig
+n04589890 window screen
+n04590129 window shade
+n04591157 Windsor tie
+n04591713 wine bottle
+n04592741 wing
+n04596742 wok
+n04597913 wooden spoon
+n04599235 wool, woolen, woollen
+n04604644 worm fence, snake fence, snake-rail fence, Virginia fence
+n04606251 wreck
+n04612504 yawl
+n04613696 yurt
+n06359193 web site, website, internet site, site
+n06596364 comic book
+n06785654 crossword puzzle, crossword
+n06794110 street sign
+n06874185 traffic light, traffic signal, stoplight
+n07248320 book jacket, dust cover, dust jacket, dust wrapper++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+n07565083 Food
+n07579787 Food
+n07583066 Food
+n07584110 Food
+n07590611 Food
+n07613480 Food
+n07614500 Food
+n07615774 Food
+n07684084 Food
+n07693725 Food
+n07695742 Food
+n07697313 Food
+n07697537 Food
+n07711569 Food
+n07714571 Food
+n07714990 Food
+n07715103 Food
+n07716358 Food
+n07716906 Food
+n07717410 Food
+n07717556 Food
+n07718472 Food
+n07718747 Food
+n07720875 Food
+n07730033 Food
+n07734744 Food
+n07742313 Food
+n07745940 Food
+n07747607 Food
+n07749582 Food
+n07753113 Food
+n07753275 Food
+n07753592 Food
+n07754684 Food
+n07760859 Food
+n07768694 Food
+n07802026 Food
+n07831146 Food
+n07836838 Food
+n07860988 Food
+n07871810 Food
+n07873807 Food
+n07875152 Food
+n07880968 Food
+n07892512 Food
+n07920052 Food
+n07930864 Food
+n07932039 Food
+n09193705 Nature
+n09229709 Nature
+n09246464 Nature
+n09256479 Nature
+n09288635 Nature
+n09332890 Nature
+n09399592 Nature
+n09421951 Nature
+n09428293 Nature
+n09468604 Nature
+n09472597 Nature
+n09835506 Miscllaneous
+n10148035 Miscllaneous
+n10565667 Miscllaneous
+n11879895 Miscllaneous
+n11939491 Miscllaneous
+n12057211 Miscllaneous
+n12144580 Miscllaneous
+n12267677 Miscllaneous
+n12620546 Miscllaneous
+n12768682 Miscllaneous
+n12985857 Miscllaneous
+n12998815 Miscllaneous
+n13037406 Miscllaneous
+n13040303 Miscllaneous
+n13044778 Miscllaneous
+n13052670 Miscllaneous
+n13054560 Miscllaneous
+n13133613 Miscllaneous
+n15075141 Miscllaneous
