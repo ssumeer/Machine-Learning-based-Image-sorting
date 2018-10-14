@@ -1,0 +1,34 @@
+#!/bin/bash
+
+
+#Author Sumeer Subramanian (sumeer@unixindia.com)
+
+
+indir=$(echo $* | grep -oE -- --indir=[^\ ]*)
+indir=${indir##--indir=}
+
+
+outdir=$(echo $* | grep -oE -- --outdir=[^\ ]*)
+outdir=${outdir##--outdir=}
+
+
+pushd /home/sumeer/Desktop/newimagerecognitiondata
+#SCRIPTDIR<-change this to model directory
+
+if [ -z "$indir" ] && [ -z "$outdir" ] 
+then
+	echo "Usage: $0  --indir=/home/sumeer/e  --outdir=/home/sumeer/b"
+	exit -1
+fi
+
+
+
+for f in "$indir"/*
+do
+	class=$( python2.7 ./pi_deep_learning.py --prototxt models/bvlc_googlenet.prototxt --model models/bvlc_googlenet.caffemodel --labels synset_words.txt --image "$f" | grep -v INFO )
+	class=$(echo "$class" | grep -oE \'.*\' | tr -d "'")
+
+        [ ! -d "$outdir"/"$class"  ] && mkdir -p "$outdir"/"$class"
+	cp -v  "$f" "$outdir"/"$class"
+done
+
